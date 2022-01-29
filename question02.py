@@ -1,3 +1,6 @@
+#Código fonte questão 02
+#Sequencia de Fibonacci
+
 numero = int(input("Digite um numero: "))
 primeiro = 0
 segundo = 1
