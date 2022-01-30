@@ -1,6 +1,3 @@
-# Quest 01
- Resolução do primeiro exercício de soma
+# Resolução Questões
+ Resolução dos exercícios propostos
 
-Repositório criado para solucionar um problema simples proposto em um teste de empresa. 
-
-Teste de PULL..
